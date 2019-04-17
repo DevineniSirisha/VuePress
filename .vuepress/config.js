@@ -9,10 +9,19 @@ module.exports={
 
         ],
         sidebar: [
-            '/',
-            '/Page 1',
-            '/Page 2'
-          ]
+            '/Introduction',
+            '/Methodology',
+            '/Requirements',
+            '/Design',
+            '/er',
+            '/ToolsnTechnology',
+            '/TestCases',
+            '/analysis',
+            '/Deployment',
+            
+           
+    
+    ]
     }
     
 }
