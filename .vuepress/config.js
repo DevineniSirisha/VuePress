@@ -4,7 +4,9 @@ module.exports={
     themeConfig: {
         nav:[
             {text: 'Home', link:'/'},
-            {text: 'Guide', link:'guide.html'},
+            {text: 'Guide', link:'Introduction.html'},
+            {text: 'Developer Manual', link:'teamprofiles.html'},
+            {text: 'User Manual', link:'teamprofiles.html'},
             {text: 'About Team', link:'teamprofiles.html'},
 
         ],
@@ -18,9 +20,6 @@ module.exports={
             '/TestCases',
             '/analysis',
             '/Deployment',
-            
-           
-    
     ]
     }
     
