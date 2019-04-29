@@ -1,5 +1,4 @@
 # Introduction
------
 C&G Coatings Estimator is a cost estimator app that collect and analyze data to estimate the time, money, materials, and labor required to provide a service. They generally specialize in a product or industry. In our app, the final estimate is calculated by summing up following costs.
 <details><summary>Labor cost</summary>
 <ul>
