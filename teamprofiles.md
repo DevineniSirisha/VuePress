@@ -2,7 +2,7 @@
 ## Vijay Tupakula
 ![An image](./image1.jpg)
 ## Sai Sirisha Devineni
-![An image](./image.jpg)
+![An image](./image4.jpg)
 ## SaiCharan Gurudu
 ![An image](./image2.jpg)
 ## Sairam Vankina
