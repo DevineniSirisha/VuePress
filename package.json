@@ -1,0 +1,25 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "--- home: true actionText: Get Started → actionLink: Introduction.html features: - title: Cost Estimator Guide    details: A detailed guide of our cost estimator project with final project artifacts. - title: Developer Manual   details: A complete developer manual with installation and maintainence instructions. - title: User Manual   details: A technical communication document for assistance to the user of this application. footer: C&G Coatings Estimator | Spring 2019 ---",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/vijaythecoder/VuePress.git"
+  },
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.10.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vijaythecoder/VuePress/issues"
+  },
+  "homepage": "https://gitlab.com/vijaythecoder/VuePress#readme"
+}
