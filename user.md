@@ -18,9 +18,7 @@ We thank our client Curt Carpenter and acting client Dr. Denise Case for giving 
 A cost estimating app that will calculate the estimated amount for works like coatings, floorings etc. It helps to make an estimate for a work like Flooring, painting etc., also uses previous projects as a point of reference to help predict the cost of other projects that they will be working on. Will be able to make an estimate, view all the estimates and make changes to existing one.
 
 --- 
-
-## List of contents
-These are the list of contents included in our user manual
+## List of Contents
 <details><summary>Setup</summary>
 <ul>
 <li>Pre-Installations & Requirements</li>
@@ -50,6 +48,7 @@ These are the list of contents included in our user manual
 </details>
 <details><summary>Miscellaneous</summary>
 </details>
+
 ---
 
 ## Pre-Installations & Requirements
