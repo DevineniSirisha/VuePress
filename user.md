@@ -1,22 +1,24 @@
-C&G Coatings Application
+# C&G Coatings Application
 Graduate Directed Project – 2
 November 2018 – May 2019.
+## ADONIS TEAM
+**Developed by:**
+- Vijay Kumar Tupakula
+- Saicharan Gurudu
+- Sai Sirisha Devineni
+- Satya Sai Ram Vankina
 
-                             ADONIS TEAM
-Developed by:
-Vijay Kumar Tupakula
-Saicharan Gurudu
-Sai Sirisha Devineni
-Satya Sai Ram Vankina
-
-
-                                                            Preface
+---
+## Preface
 We thank our client Curt Carpenter and acting client Dr. Denise Case for giving us this project and trusting us on our work. Hope we satisfied all your requirements and stood up to your expectations.
 
-               Introduction
+## Introduction
 A cost estimating app that will calculate the estimated amount for works like coatings, floorings etc. It helps to make an estimate for a work like Flooring, painting etc., also uses previous projects as a point of reference to help predict the cost of other projects that they will be working on. Will be able to make an estimate, view all the estimates and make changes to existing one.
 
-                      List of Contents
+## List of Contents
+<ul>
+<li>Setup</li>
+</ul>
  I.                                                                   Setup 
  1) Pre-Installations & Requirements………………………………………………….………………3
  2) Launch Application…………………………………………………………………………………..……3 

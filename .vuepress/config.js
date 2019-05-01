@@ -24,7 +24,8 @@ module.exports={
             '/Dev',
             '/Tools',
             '/setup',
-            '/structure'
+            '/structure',
+            '/user'
     ]
     }
     
