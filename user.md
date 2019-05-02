@@ -73,58 +73,60 @@ Displays contact information of the owner, Address, phone number and email-Id. I
 1) Click on the Contact tab to see the contact information and ask any questions 
 2) Enter your First name, Last name, Email Id and question you want to ask 
 3) Click on send Message button send the email to owner.
-
+![An image](./Contact.png)
 
 # Admin Pages: 
 
 **Login Page** 
 1) Login into the application to create an estimate. 
 2) Click on the Login button after giving the valid credentials to login.
-
+![An image](./Login.png)
  
 **View all estimates**
    
 1) After logging in you can see the existing estimates.
-
+![An image](./estimates.png)
 
  
 **View details of a selected estimate**
  1. Click on the estimate to see full estimate details of a job.
-
+![An image](./Onclick.png)
  
 
 2. Full details of the estimate.
- 
+ ![An image](./fulldetails.png)
 
 **Editing a selected estimate**
 1) Click on the edit button of any estimate on the estimates page to make any modification.
 2) We can also edit estimates in the full details page also.
+![An image](./edit.png)
 
  
 
 3) After editing the required changes click the update estimate now you will be redirected to the estimates page with changes .
  
-
+![An image](./update.png)
 **Deleting a selected estimate**
 1) Click Delete button of selected estimate on estimates page to delete any specific entry,   confirm deletion by clicking OK.
- 
+ ![An image](./delete.png)
 
 **Create a New Estimate:**
   1) Click on “Create estimate” button to create a new estimate.
  
-
+![An image](./Create.png)
 
 
 
 2) Enter the details required for the job, each field is labelled by what to be typed in the entry box against it.
 
- 
+ ![An image](./New.png)
 
 
 3) Click on create basic estimate button at end of page after entering all the details to create basic estimate.
+![An image](./Basic.png)
 4) Later you can add any materials cost and miscellaneous costs.
 
- 
+ ![An image](./Misc.png)
   
  
 
@@ -136,17 +138,18 @@ Displays contact information of the owner, Address, phone number and email-Id. I
  
 
 2) The Duplicate of the selected estimate will be created, thus a new estimate can be created with a new job name.
+![An image](./Duplicate.png)
 
 **Search the Estimate from estimate list.**
 1) Type in the estimate name in the search field and click on the search button on the top right to get the required estimate.
  
-
+![An image](./Search.png)
 
 **Logout from the Admin account.**
 1) Click on the logout button on the top right to logout securely from the admin account. 
  
 
-
+![An image](./logout.png)
 
 
 
