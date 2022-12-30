@@ -14,7 +14,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "vuepress": "^0.10.0"
+    "vuepress": "^1.9.7"
   },
   "author": "",
   "license": "ISC",
